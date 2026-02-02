@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Khouloud 👋  
+## Fullstack Engineer | Angular / Java
 
-<!--
-**Khammami-dev/Khammami-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Ingénieure développeuse Fullstack avec 3 ans d’expérience  
+💻 Angular • Java • Spring Boot • REST • Docker  
+📍 Lille, France  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+
+---
+
+## 📄 Mon CV
+👉 [Télécharger mon CV (PDF)](./CV-Khouloud-Hammami.pdf)
+
+---
+
+## 💼 Expérience
+- **Fullstack Angular / Java – Quokka Agency**
+- **Angular / Spring Boot – Medical Simulation Center**
+- **Angular / Django – Agil Energy**
+
+---
+
+## 📌 Projets à mettre en avant
+- 🔹 Application métier Angular / Spring Boot
+- 🔹 API REST sécurisées (JWT, OAuth2)
+- 🔹 Dashboards analytiques
+
+---
+
+## 📫 Contact
+- LinkedIn : https://linkedin.com/in/khouloudhammami
+- Email : hammamikh95@gmail.com
+
