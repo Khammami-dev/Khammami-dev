@@ -13,12 +13,6 @@
 ![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
----
-
-## 📄 Mon CV
-👉 [Télécharger mon CV (PDF)](./CV-Khouloud-Hammami.pdf)
-
----
 
 ## 💼 Expérience
 - **Fullstack Angular / Java – Quokka Agency**
